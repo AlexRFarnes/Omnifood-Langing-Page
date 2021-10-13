@@ -110,6 +110,7 @@ strong {
 }
 
 .grid:not(:last-child) {
+  /* If the grid is not the last-child then add the margin-bottom */
   margin-bottom: 9.6rem;
 }
 
