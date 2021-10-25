@@ -68,6 +68,8 @@ Card: 12px
 
 html {
   font-size: 62.5%;
+  /* For mobile navigation */
+  overflow-x: hidden;
 }
 
 /* General style */
@@ -77,6 +79,8 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+  /* For mobile navigation */
+  overflow-x: hidden;
 }
 
 /* Helper classes */
