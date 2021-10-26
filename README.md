@@ -18,8 +18,8 @@ A landing page for a fictional company built with HTML, CSS that also considers 
 
 ## Screenshots
 
-![Screenshot]()
-[Demo]()
+![Screenshot 2021-10-26 at 21-16-04 Omnifood](https://user-images.githubusercontent.com/57517804/138886916-a0f2c7da-fb84-48cc-8d3b-8a089f522c23.png)
+[Demo](https://hardcore-hermann-e91aaf.netlify.app)
 
 ## Technologies
 
